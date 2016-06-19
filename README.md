@@ -1,2 +1,0 @@
-# OSjava
-Basics Of Java
